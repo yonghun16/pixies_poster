@@ -17,6 +17,8 @@ body {
 .poster {
   background-color: $green;
   width: 45%;
+  max-width: 800px;
+  min-width: 500px;
   height:100%;
   display: grid;
   grid-template-rows: 30fr 70fr;
