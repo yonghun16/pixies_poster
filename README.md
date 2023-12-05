@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Pixies%20Poster%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/yonghun16/pixies_poster/blob/main/design.jpeg" width=500px />
+<img src="https://github.com/yonghun16/pixies_poster/blob/main/design.jpg" width=500px />
 	
 <ul>
 	<li>
